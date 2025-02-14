@@ -12,3 +12,4 @@ This is a simple Dart program that calculates the total cost of grocery items an
 The output should look like this:
 Total Price:21.4
 Total Price after tax:23.54
+![image](https://github.com/user-attachments/assets/eb80b08a-b104-41d3-8e14-bfdbfa6aa428)
